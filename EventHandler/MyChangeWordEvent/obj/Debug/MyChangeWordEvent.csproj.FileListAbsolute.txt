@@ -1,0 +1,4 @@
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\MyChangeWordEvent\bin\Debug\MyChangeWordEvent.dll
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\MyChangeWordEvent\bin\Debug\MyChangeWordEvent.pdb
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\MyChangeWordEvent\obj\Debug\MyChangeWordEvent.dll
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\MyChangeWordEvent\obj\Debug\MyChangeWordEvent.pdb

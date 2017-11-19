@@ -1,0 +1,7 @@
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\ZaimWord\bin\Debug\ZaimWord.dll
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\ZaimWord\bin\Debug\ZaimWord.pdb
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\ZaimWord\bin\Debug\MyChangeWordEvent.dll
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\ZaimWord\bin\Debug\MyChangeWordEvent.pdb
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\ZaimWord\obj\Debug\ZaimWord.csprojResolveAssemblyReference.cache
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\ZaimWord\obj\Debug\ZaimWord.dll
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\ZaimWord\obj\Debug\ZaimWord.pdb

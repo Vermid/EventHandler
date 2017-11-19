@@ -1,0 +1,24 @@
+C:\Users\Zaims\Desktop\How Does EvenetHandler WORKS\EventHandler\EventHandler\bin\Debug\EventHandler.exe.config
+C:\Users\Zaims\Desktop\How Does EvenetHandler WORKS\EventHandler\EventHandler\bin\Debug\EventHandler.exe
+C:\Users\Zaims\Desktop\How Does EvenetHandler WORKS\EventHandler\EventHandler\bin\Debug\EventHandler.pdb
+C:\Users\Zaims\Desktop\How Does EvenetHandler WORKS\EventHandler\EventHandler\bin\Debug\Listeners.exe
+C:\Users\Zaims\Desktop\How Does EvenetHandler WORKS\EventHandler\EventHandler\bin\Debug\SelfMadeEvent.exe
+C:\Users\Zaims\Desktop\How Does EvenetHandler WORKS\EventHandler\EventHandler\bin\Debug\Listeners.pdb
+C:\Users\Zaims\Desktop\How Does EvenetHandler WORKS\EventHandler\EventHandler\bin\Debug\Listeners.exe.config
+C:\Users\Zaims\Desktop\How Does EvenetHandler WORKS\EventHandler\EventHandler\bin\Debug\SelfMadeEvent.pdb
+C:\Users\Zaims\Desktop\How Does EvenetHandler WORKS\EventHandler\EventHandler\bin\Debug\SelfMadeEvent.exe.config
+C:\Users\Zaims\Desktop\How Does EvenetHandler WORKS\EventHandler\EventHandler\obj\Debug\EventHandlerZaim.csprojResolveAssemblyReference.cache
+C:\Users\Zaims\Desktop\How Does EvenetHandler WORKS\EventHandler\EventHandler\obj\Debug\EventHandler.exe
+C:\Users\Zaims\Desktop\How Does EvenetHandler WORKS\EventHandler\EventHandler\obj\Debug\EventHandler.pdb
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\EventHandler\bin\Debug\EventHandler.exe.config
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\EventHandler\bin\Debug\EventHandler.exe
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\EventHandler\bin\Debug\EventHandler.pdb
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\EventHandler\bin\Debug\MyChangeWordEvent.dll
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\EventHandler\bin\Debug\OtherListeners.dll
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\EventHandler\bin\Debug\ZaimWord.dll
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\EventHandler\bin\Debug\MyChangeWordEvent.pdb
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\EventHandler\bin\Debug\OtherListeners.pdb
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\EventHandler\bin\Debug\ZaimWord.pdb
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\EventHandler\obj\Debug\EventHandlerZaim.csprojResolveAssemblyReference.cache
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\EventHandler\obj\Debug\EventHandler.exe
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\EventHandler\obj\Debug\EventHandler.pdb
