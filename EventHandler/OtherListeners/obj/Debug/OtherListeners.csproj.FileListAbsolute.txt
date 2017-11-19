@@ -1,0 +1,7 @@
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\OtherListeners\bin\Debug\OtherListeners.dll
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\OtherListeners\bin\Debug\OtherListeners.pdb
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\OtherListeners\bin\Debug\MyChangeWordEvent.dll
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\OtherListeners\bin\Debug\MyChangeWordEvent.pdb
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\OtherListeners\obj\Debug\OtherListeners.csprojResolveAssemblyReference.cache
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\OtherListeners\obj\Debug\OtherListeners.dll
+C:\Users\Zaims\Desktop\MyPrograms\EventHandler\OtherListeners\obj\Debug\OtherListeners.pdb
